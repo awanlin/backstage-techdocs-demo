@@ -1,0 +1,4 @@
+site_name: 'Backstage TechDocs Demo'
+
+plugins:
+  - techdocs-core
