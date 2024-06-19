@@ -38,19 +38,6 @@ And they end up looking like this:
 !!! tip
     Don't forget to spell check your documentation.
 
-## PlantUML
-
-You can create dynamic UML diagrams on the fly by just specifying flow via text,
-using [PlantUML](https://pypi.org/project/plantuml-markdown/).
-
-```plantuml format="svg" classes="uml myDiagram" alt="Backstage sample PlantUML" title="Backstage sample PlantUML" width="500px" height="250px"
-User -> SCMProvider: stores
-TechDocs -> SCMProvider: prepares
-TechDocs -> TechDocs: generates
-TechDocs -> CloudStorage: publishes
-CloudStorage -> Backstage: displays
-```
-
 ## Pymdownx Extensions
 
 Pymdownx (Python Markdown extensions) are a variety of smaller additions.
