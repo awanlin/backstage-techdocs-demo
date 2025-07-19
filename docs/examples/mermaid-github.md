@@ -556,8 +556,7 @@ erDiagram
     section Go home
       Go downstairs: 5: Me
       Sit down: 3: Me
-````
-
+```
 
 ## [Pie Chart Diagram](https://mermaid-js.github.io/mermaid/#/pie)
 
