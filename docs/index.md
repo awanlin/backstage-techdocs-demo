@@ -13,4 +13,4 @@ Current examples:
 - [Extensions](./examples/extensions.md): this showcases some of the extensions included
 - [Code](./examples/code.md): this shows some example of code blocks in use
 - [iframe](./examples/iframe.md): this shows how you can use an iframe in your TechDocs
-- 
+- [GitHub Mermaid](./examples/mermaind-github.md): this shows you how GitHub Mermaid renders in TechDocs
