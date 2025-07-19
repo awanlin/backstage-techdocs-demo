@@ -586,25 +586,19 @@ requirementDiagram
     test_entity - satisfies -> test_req
 ```
 
-## GitGraph 
+## GitGraph
 
 This does not seem to be documented, see [https://github.com/mermaid-js/mermaid/issues/2011].
 
 ```mermaid
-gitGraph:
-options
-{
-"nodeSpacing": 150,
-"nodeRadius": 10
-}
-end
-commit
-branch newbranch
-checkout newbranch
-commit
-commit
-checkout main
-commit
-commit
-merge newbranch
+gitGraph
+    commit
+    branch newbranch
+    checkout newbranch
+    commit
+    commit
+    checkout main
+    commit
+    commit
+    merge newbranch
 ```
