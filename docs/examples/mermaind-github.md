@@ -1,5 +1,7 @@
 # Mermaid on Github Examples
 
+These were taken from this gist: <https://gist.github.com/ChristopherA/bffddfdf7b1502215e44cec9fb766dfd>
+
 All of these diagrams are dynamically rendered during html display by Github, the images generated from text inside the Github-Flavored Markdown. None are static images. Mermaid support was released for Github on [2022-02-14](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
 
 Pros & Cons:
