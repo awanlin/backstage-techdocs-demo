@@ -3,5 +3,5 @@ site_name: 'Backstage TechDocs Demo'
 plugins:
   - techdocs-core
 
-# markdown_extensions:
-#     - markdown_inline_mermaid
+markdown_extensions:
+    - markdown_inline_mermaid
