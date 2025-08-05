@@ -29,6 +29,18 @@ Some real-world examples of Mermaid Diagrams in Github:
 
 ## [Graph (aka Flowchart)](https://mermaid-js.github.io/mermaid/#/flowchart)
 
+### Simple Example as Markdown
+
+```markdown
+    ```mermaid
+    graph LR;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+    ```
+```
+
 ### Simple Left-Right Graph
 
 ```mermaid
