@@ -41,7 +41,6 @@ Some real-world examples of Mermaid Diagrams in Github:
     ```
 ```
 
-
 ```markdown
     ```mermaid
     flowchart LR
