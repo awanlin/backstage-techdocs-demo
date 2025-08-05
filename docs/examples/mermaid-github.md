@@ -32,25 +32,25 @@ Some real-world examples of Mermaid Diagrams in Github:
 ### Simple Example as Markdown
 
 ```markdown
-```mermaid
-graph LR;
-A-->B;
-A-->C;
-B-->D;
-C-->D;
-```
+    ```mermaid
+    graph LR;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+    ```
 ```
 
 
 ```markdown
-```mermaid
-flowchart LR
-    a[Chapter 1] --> b[Chapter 2] --> c[Chapter 3]
-    c-->d[Using Ledger]
-    c-->e[Using Trezor]
-    d-->f[Chapter 4]
-    e-->f
-```
+    ```mermaid
+    flowchart LR
+        a[Chapter 1] --> b[Chapter 2] --> c[Chapter 3]
+        c-->d[Using Ledger]
+        c-->e[Using Trezor]
+        d-->f[Chapter 4]
+        e-->f
+    ```
 ```
 
 ### Simple Left-Right Graph
