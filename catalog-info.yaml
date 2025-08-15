@@ -5,6 +5,8 @@ metadata:
   description: An example of TechDocs.
   annotations:
     backstage.io/techdocs-ref: dir:.
+  tags:
+    - recommended
 spec:
   type: website
   owner: backstage/maintainers
